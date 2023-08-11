@@ -6,7 +6,7 @@ if (area == "1"){
 } else if (area == "2") {
     const especializacao = prompt("Legal! Prefere aprender C# ou Java?");
 } else {
-    alert("Por favor, responder apenas com 1 para Front-End ou 2 para Back-End.")
+    alert("Por favor, refaça o teste e certifique-se de responder apenas com 1 para Front-End ou 2 para Back-End.");
 }
 
 //Segunda pergunta, para saber se seguirá na especialização ou esturará para Full Stack
@@ -17,7 +17,7 @@ if (seguir == 1){
 } else if (seguir == 2) {
     alert("Muito bom! Diversificar o conhecimento poderá te ajudar no futuro.");
 } else {
-    alert(`Por favor, responder apenas com 1 para continuar com  ${area} ou 2 para virar FullStack.`)
+    alert(`Por favor, refaça o teste e certifique-se de responder apenas com 1 para continuar com  ${area} ou 2 para virar FullStack.`);
 }
 
 
