@@ -20,6 +20,8 @@ while (adicionar == "S"){
             congelados.push(produto);
         }else if (fila=="Doces"){
             doces.push(produto);
+        } else {
+            alert("Essa categoria não foi pré-definida.")
         }
     }
 }
