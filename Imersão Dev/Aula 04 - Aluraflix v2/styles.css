@@ -1,0 +1,71 @@
+body {
+    font-family: "MS Trebuchet", Sans-serif;
+    text-align: center;
+    background-color: orange;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-shadow: 3px 3px 3px black;
+  }
+  
+  h1{
+    color: white;
+    font-size: 52px;
+  }
+
+  p{
+    color:white;
+    font-weight: bold;
+    font-size: large;
+  }
+
+
+  .container {
+    text-align: center;
+    padding:  20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+
+
+  #listaAnimes img {
+    margin: 10px;
+    max-height: 250px;
+  }
+  
+  .form-wrapper {
+    margin: 0 0 50px;
+  }
+  
+  .form-wrapper input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 50px;
+  }
+  
+  .form-wrapper button {
+    border: 0;
+    color: #ffffff;
+    background: black;
+    font-weight: bold;
+    padding: 15px 20px;
+    font-size: 16px;
+    borde-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .form-wrapper button:hover {
+    opacity: 0.8;
+  }
+  
