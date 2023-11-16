@@ -28,7 +28,7 @@ function recarregarAnimes(){
     var elementoListaAnimes = document.getElementById('listaAnimes');
     elementoListaAnimes.innerHTML = '';
     for(i=0; i < listaAnimes.length ; i++){
-        elementoListaAnimes.innerHTML += `<a href=" ${listaAnimes[i]} "><img src=" ${listaAnimes[i]} "></a>`;
+        elementoListaAnimes.innerHTML += `<a href=" ${listaTrailerAnimes[i]},"_blank" rel="noopener noreferrer""><img src=" ${listaAnimes[i]} "></a>`;
         elementoListaAnimes.innerHTML += `<p> ${i}. ${listaNomeAnimes[i]}  </p><br>`;
 
       
@@ -58,4 +58,3 @@ function removerAnime(){
     limpaCampos();
     recarregarAnimes();
 }
-
