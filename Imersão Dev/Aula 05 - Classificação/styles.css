@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   text-align: center;
 }
@@ -51,4 +52,59 @@ td {
 button {
   background-color: #aa2f19;
   color: #f6f6f6;
+=======
+* {
+  text-align: center;
+}
+
+body {
+    font-family: "MS Trebuchet", Sans-serif;
+    background-color: black;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-image: url("https://i.pinimg.com/originals/d3/39/5e/d3395ed9226a8a74c22891f4b2fe688f.png");
+    text-shadow: 3px 3px 3px black;
+  }
+  
+  h1{
+    color: white;
+    font-size: 52px;
+  }
+
+  p{
+    color:white;
+    font-weight: bold;
+    font-size: large;
+  }
+
+
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+
+
+  table {
+    border: 2px solid white;
+    border-collapse: collapse;
+  }
+
+th,
+tr,
+td {
+  border: solid 1px white;
+  color: white;
+  background-color: black;
+}
+
+button {
+  background-color: #aa2f19;
+  color: #f6f6f6;
+>>>>>>> 9fddb904b4c31fa9be70aa732dab05d8b2f0fc87
 }

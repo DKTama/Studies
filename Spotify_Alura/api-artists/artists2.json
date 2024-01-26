@@ -1,0 +1,12 @@
+{
+    "artists": [
+      { "id": 1, "name": "Lisa", "genre": "JPop", "urlImg": "https://imusic.b-cdn.net/images/item/original/188/4547366408188.jpg?lisa-2019-gurenge-cd&class=scaled&v=1610513670" },
+      { "id": 2, "name": "Linkin Park", "genre": "Rock", "urlImg": "https://m.media-amazon.com/images/I/81iC+O0ec2L._UF1000,1000_QL80_.jpg" },
+      { "id": 3, "name": "Eminem", "genre": "Rap", "urlImg": "https://m.media-amazon.com/images/I/71n0xmxpw7L._UF1000,1000_QL80_.jpg" },
+      { "id": 4, "name": "Zezé di Camargo e Luciano", "genre": "Sertanejo", "urlImg": "https://upload.wikimedia.org/wikipedia/pt/1/1c/Zez%C3%A9_di_camargo_e_luciano_2002.jpg" },
+      { "id": 5, "name": "Billie Eilish", "genre": "Pop", "urlImg": "https://m.media-amazon.com/images/I/81idxQqxTlL._UF1000,1000_QL80_.jpg" },
+      { "id": 6, "name": "Zeca Pagodinho", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616d0000b2738989e0498a9c8cffd6a3bf23" },
+      { "id": 7, "name": "Elis Regina", "genre": "MPB", "urlImg": "https://upload.wikimedia.org/wikipedia/pt/e/e4/Elis_Regina_-_Elis_1972.jpg" }
+    ]
+  }
+  

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz@8..60&display=swap');
 
 :root {
@@ -51,4 +52,59 @@ h3{
     background-color: var(--primary-color);
     border-radius: 5px;
     margin-top: 20px;
+=======
+ @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz@8..60&display=swap');
+
+:root {
+    --font-family: 'Source Serif 4', serif;
+    --primary-color: #F3F8FF;
+    --bg-color: #191919;
+}
+
+body{
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    font-family: var(--font-family);
+}
+
+h1{
+    font-size: 5em;
+}
+
+h2{
+    font-size: 4em;
+}
+h3{
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.mensagem{
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+.box {
+    border:2px solid var(--primary-color);
+    display: inline-block;
+    font-size: 4em;
+    padding: 10px;
+    margin: 20px;
+}
+
+.btnJogar{
+    font-size: 1em;
+    padding:8px 15px;
+    border: 0;
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 20px;
+>>>>>>> 9fddb904b4c31fa9be70aa732dab05d8b2f0fc87
 }

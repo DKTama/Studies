@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: "MS Trebuchet", Sans-serif;
     text-align: center;
@@ -18,4 +19,26 @@ body {
     color:white;
     font-weight: bold;
     font-size: large;
+=======
+body {
+    font-family: "MS Trebuchet", Sans-serif;
+    text-align: center;
+    background-color: orange;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-shadow: 3px 3px 3px black;
+  }
+  
+  h1{
+    color: white;
+    font-size: 52px;
+  }
+
+  p{
+    color:white;
+    font-weight: bold;
+    font-size: large;
+>>>>>>> 9fddb904b4c31fa9be70aa732dab05d8b2f0fc87
   }
