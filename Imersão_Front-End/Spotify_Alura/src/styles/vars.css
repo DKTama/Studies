@@ -1,0 +1,20 @@
+:root {
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,07);
+    --bg-search-color: #242424;
+    --bg-subscribe-color: #a7a7a7;
+    --color-black: #000;
+    --color-white: #fff;
+
+}
+
+/* MEDIA QUERYS */
+@media screen and (max-width: 767px) {
+}
+
+@media screen and (min-width: 768px) and (max-width: 1274px) {
+}

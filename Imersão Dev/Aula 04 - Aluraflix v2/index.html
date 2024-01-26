@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <title>Day 4 - Aluraroll v2</title>
+</head>
+<body>
+
+    <h1>Day 4 - Aluraroll v2</h1>
+
+    <p class="page-subtitle">
+        Qual seu anime favorito?
+      </p>
+      <div class="form-wrapper">
+        <input type="text" id="nome" name="nome" placeholder="Insira o nome do anime">
+        <input type="text" id="anime" name="anime" placeholder="Insira endereço de imagem">
+        <input type="text" id="trailer" name="trailer" placeholder="Insira endereço do trailer">
+        <p id="mensagemDeErro"></p>
+        <button onClick="adicionarAnime()">Adicionar Anime</button>
+      </div>
+      
+    <div id="listaAnimes"></div>
+
+    <script src="main.js"></script>
+
+
+    <div class="form-wrapper">
+        <input type="text" id="remover" name="remover" placeholder="Digite o ID para remove-lo">
+        <button onClick="removerAnime()">Remover Anime</button>
+    </div>
+
+
+</body>
+</html>
